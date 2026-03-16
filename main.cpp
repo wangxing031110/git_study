@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << 3 <<endl;//windows
+    cout << 3 <<endl; //Linux、Windows
     cout << 5 << endl;
 	return 0;
 }
