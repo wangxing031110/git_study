@@ -46,6 +46,7 @@ git push origin master  推送到远程仓库
 # 创建分支 （在本地仓库）
 git branch 分支名  创建一个分支，分支名是分支的名称
 git branch softdev  创建一个分支，分支名是 softdev
+在 softdev 分支上工作修改，在用main分支合并softdev分支时，会自动合并softdev分支的修改到main分支上
 
 
 
