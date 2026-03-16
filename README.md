@@ -43,7 +43,9 @@ git revert <commit_id>  撤销指定的提交，生成一个新的提交
 
 git push origin master  推送到远程仓库
 
-
+# 创建分支 （在本地仓库）
+git branch 分支名  创建一个分支，分支名是分支的名称
+git branch softdev  创建一个分支，分支名是 softdev
 
 
 
